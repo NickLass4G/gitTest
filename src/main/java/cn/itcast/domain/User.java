@@ -5,4 +5,6 @@ package cn.itcast.domain;
  * @Date: 2019/11/14 21:55
  */
 public class User {
+
+    private int id;
 }
